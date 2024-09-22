@@ -80,9 +80,9 @@
     
     
     
-    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
-    
     <category term="哲学" scheme="http://example.com/tags/%E5%93%B2%E5%AD%A6/"/>
+    
+    <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/"/>
     
   </entry>
   
